@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+}
+body{
+    background-size: cover;
+    background-image: url(./starter-code/assets/destination/background-destination-desktop.jpg);
+}
+#banner #titulo{
+    color: white;
+    margin: 55px 60px 0 250px;
+}
+#banner img{
+    width: 30%;
+    margin: 60px 30px 80px 240px;
+    
+}
